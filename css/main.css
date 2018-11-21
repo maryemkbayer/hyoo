@@ -1,0 +1,74 @@
+h1 {
+    color: red;
+    font-size: 100px
+}
+
+p,a {
+    color: violet;
+    background-color: blue;
+    border: 1px solid black
+}
+
+h2:hover {
+    color: rgb(80, 128, 8);
+    background: blue
+}
+
+h3 {
+    background-color: yellow;
+    margin-top: 10px;
+    padding: 80px
+}
+
+img {
+    width: 40%;
+    height: 30%
+}
+
+#hello {
+    text-align: center;
+}
+
+.world {
+    background-image: url(https://i.pinimg.com/564x/e7/50/d6/e750d655b03ecfc5558dcae24d4caea9.jpg);
+    display: grid;
+    position: relative;
+    border: 3px;
+    color: yallow;
+    height: 200px
+}
+
+h3,img {
+    background: red;
+    display: inherit
+}
+
+#mpd {
+    display: block
+}
+
+#hala {
+    background: indianred
+}
+
+#kolo {
+    background: rgb(59, 201, 236)
+}
+
+#lota {
+    border: 1px solid black;
+    margin-right: 10px;
+    background-color: chocolate;
+    margin-left:10px
+}
+#lota{
+    width:1000px;
+    height:800px;
+    background-color:blueviolet
+}
+
+.red{color:red;
+    font-weight:bold;
+    font-size: 20px;
+    background-color: aqua
+       }
